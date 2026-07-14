@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us - Marvels of Travel</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <h1>Marvels of Travel</h1>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html" class="active">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="terms.html">Terms & Policy</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>About Us</h2>
+    <p>Founded in 1997, Marvels of Travel Philippines is the first IATA-accredited travel agency in Ayala Alabang. We specialize in airline ticketing, visa assistance, hotel accommodations, tours, and cruises. What sets us apart is our personalized service and commitment to making travel stress-free.</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Marvels of Travel Philippines | Educational Redesign</p>
+  </footer>
+</body>
+</html>
